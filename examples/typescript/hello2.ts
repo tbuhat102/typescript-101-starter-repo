@@ -2,4 +2,4 @@ function sayHello(name: string): string {
   return `Hello, ${name}`;
 }
 
-console.log(sayHello("Andrei😁"));
+console.log(sayHello(20));
