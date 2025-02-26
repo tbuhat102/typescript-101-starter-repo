@@ -1,2 +1,4 @@
 let isLightOn: boolean = true;
-console.log(isLightOn);
+let name: string = "Andrei :) ";
+let userName;
+console.log(name);
